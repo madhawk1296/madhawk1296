@@ -4,7 +4,7 @@ Building web apps with Next.js and Supabase. Currently building AI apps and pass
 
 ## 🚧 Currently Building
 
-**🤖 [AI Logo Generator](https://brandstarter.app)** — Users describe their brand, AI generates logos, and they can purchase favorites. Built with Next.js, Supabase, OpenAI, Gemini, and Stripe.
+**[AI Logo Generator](https://brandstarter.app)** — Users describe their brand, AI generates logos, and they can purchase favorites. Built with Next.js, Supabase, OpenAI, Gemini, and Stripe.
 
 
 ## 🧩 Past Projects
