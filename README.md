@@ -2,11 +2,11 @@
 
 Building web apps with Next.js and Supabase. Currently building AI apps and passionate about crypto.
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
+🎨 **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
-**Backend:** Node.js, Python, PostgreSQL, MongoDB, Redis, Supabase
+⚙️ **Backend:** Node.js, Python, PostgreSQL, MongoDB, Redis, Supabase
 
-**Tools:** AWS, Vercel, Linux, Git
+🛠️ **Tools:** AWS, Vercel, Linux, Git
 
 ## 🚧 Currently Building
 
