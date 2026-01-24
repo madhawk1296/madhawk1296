@@ -9,11 +9,9 @@ Building web apps with Next.js and Supabase. Currently building AI apps and pass
 
 ## Past Projects
 
-**E-Commerce Store** — Full-stack apparel store with product catalog, cart, and Stripe checkout. Python, Flask, MongoDB.
+**E-commerce Store** — Production e-commerce app built with Python, Flask, and MongoDB. Stripe payments, deployed on AWS, processed $2K+ in real transactions.
 
-**NFT Marketplace** — Marketplace for minting and trading NFTs. Solidity, Next.js, Hardhat.
-
-**Expense Tracker** — Track income and expenses. React, Next.js.
+**[AI Finance Dashboard](https://github.com/madhawk1296/simplybudget)** — Parses bank statement PDFs into structured data and displays cost-analysis dashboard with interactive charts. Built with Next.js.
 
 
 ## Tech Stack
