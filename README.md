@@ -1,8 +1,4 @@
-# Cristian Silva
-
-Full-stack developer with 5+ years building web applications. Currently working as a Network Engineer while shipping AI-powered tools on the side.
-
----
+# Hey, I'm Cristian
 
 ## Currently Building
 
@@ -27,9 +23,3 @@ Full-stack developer with 5+ years building web applications. Currently working 
 **Backend:** Node.js, Express, Python, PostgreSQL, MongoDB, Redis, Supabase
 
 **Tools:** AWS, Vercel, Linux, Git
-
----
-
-## Contact
-
-📧 silvacristian1296@gmail.com
