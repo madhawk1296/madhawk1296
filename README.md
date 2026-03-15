@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Cristian
 
-Building web apps with Next.js and Supabase. Currently building AI apps and passionate about crypto.
+Building web apps with Next.js and Supabase. I'm passionate about crypto and AI.
 
 🎨 **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
